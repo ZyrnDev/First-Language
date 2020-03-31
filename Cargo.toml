@@ -1,0 +1,10 @@
+[package]
+name = "practice"
+version = "0.1.0"
+authors = ["MitchellUTS <13248202@student.uts.edu.au>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+regex = "1"
